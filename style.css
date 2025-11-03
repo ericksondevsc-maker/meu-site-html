@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(green, yellow);
+    background-repeat: no-repeat;
+}
+
+.oculta {
+    display: none;
+}
+
+img{
+    width: 400px;
+}
